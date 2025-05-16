@@ -35,8 +35,8 @@ Higher income didn’t lead to higher savings — **behavioral inflation** did. 
 ---
 
 ## 📸 Sample Visuals
-<img src="jan23.png" width="100%"/>
-<img src="jan22.png" width="100%"/>
+<img src="jan23.jpg" width="100%"/>
+<img src="jan22.jpg" width="100%"/>
 
 ---
 
